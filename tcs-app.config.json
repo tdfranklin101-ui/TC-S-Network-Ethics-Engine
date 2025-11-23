@@ -1,0 +1,8 @@
+{
+  "repoName": "TC-S-Network-Ethics-Engine",
+  "slug": "ethics-engine",
+  "title": "Ethics Engine",
+  "role": "Computes ESI, EBI, HDI, CSI indices and exposes them via API.",
+  "kind": "service",
+  "createdAt": "2025-11-22T17:30:18.000Z"
+}
